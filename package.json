@@ -1,0 +1,10 @@
+{
+  "name": "solswap-ai",
+  "version": "0.1.0",
+  "description": "AI-powered swap aggregator on Solana",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+  "dependencies": {}
+}
